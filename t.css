@@ -1,7 +1,9 @@
 body {
     background: #542246;
   }
-  
+  audio{
+    opacity: 1%;
+  }
   .chest {
     position: absolute;
     top: 50%;
